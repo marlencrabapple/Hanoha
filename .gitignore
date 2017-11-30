@@ -1,0 +1,7 @@
+._*
+node_modules
+.DS_Store
+*.sql
+.vstags
+static/upload/*
+yarn.lock
